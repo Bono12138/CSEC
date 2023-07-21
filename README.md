@@ -26,15 +26,11 @@ python main.py
 ```
 ## 项目结构
 ```
-RInfo/
-├── main.py
-├── config.py
-├── scraper.py
+CSEC/
+├── RInfo_v3.0.py
 └── README.md
 ```
-- `main.py`：程序入口。
-- `config.py`：配置文件，包括保存文件名和爬取页数等。
-- `scraper.py`：爬虫脚本，包括获取通报内容和保存至Excel文件等功能。
+- `RInfo_v3.0.py`：程序入口,爬虫脚本，包括获取通报内容和保存至Excel文件等功能。
 - `README.md`：项目说明文件。
 
 ## 贡献指南
